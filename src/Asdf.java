@@ -15,6 +15,6 @@ public class Asdf {
     }
 
     public int getB() {
-        return b;
+        return b+1;
     }
 }
